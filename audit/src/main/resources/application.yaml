@@ -1,0 +1,26 @@
+rabbitmq:
+  queue:
+    name: user-aud
+  exchange:
+    name: user-aud_exchange
+  routing:
+    key: user-aud_key
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  datasource:
+    url: jdbc:mysql://localhost:3306/sample
+    username: root
+    password: Root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
