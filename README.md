@@ -3,11 +3,11 @@ This is a simple Microservice with RabbitMQ.
 
 ## Version
 * Java : 17
-* Spring Boot Version (Eureka Server) : 3.0.2
-* Spring Boot Version (API Gateway) : 3.0.2
-* Spring Boot Version (User Service) : 3.0.3-SNAPSHOT
-* Spring Boot Version (Contact Service) : 3.0.3-SNAPSHOT
-* Spring Boot Version (Audit Service) : 3.0.3-SNAPSHOT
+* Spring Boot Version (Eureka Server) : 3.0.6
+* Spring Boot Version (API Gateway) : 3.0.6
+* Spring Boot Version (User Service) : 3.0.6
+* Spring Boot Version (Contact Service) : 3.0.6
+* Spring Boot Version (Audit Service) : 3.0.6
 * MySQL : 8.0
 
 ** [Rabbit MQ](https://www.rabbitmq.com/documentation.html) Official Documentation **
