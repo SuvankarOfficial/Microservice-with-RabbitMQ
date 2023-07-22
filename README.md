@@ -10,7 +10,7 @@ This is a simple Microservice with RabbitMQ.
 * Spring Boot Version (Audit Service) : 3.0.6
 * MySQL : 8.0
 
-** [Rabbit MQ](https://www.rabbitmq.com/documentation.html) Official Documentation **
+**[Rabbit MQ](https://www.rabbitmq.com/documentation.html) Official Documentation**
 
 Here project Eureka server act as a DNS
 project API Gateway act as a bridge for other service and help them communicate
